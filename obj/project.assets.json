@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruger\\Desktop\\School\\DotNet\\002_MVC\\studentsCatalog\\studentsCatalog\\studentsCatalog.csproj",
+      "projectUniqueName": "C:\\Users\\bruger\\Desktop\\School\\DotNet\\002_MVC\\studentsCatalog\\studentsCatalog.csproj",
       "projectName": "studentsCatalog",
-      "projectPath": "C:\\Users\\bruger\\Desktop\\School\\DotNet\\002_MVC\\studentsCatalog\\studentsCatalog\\studentsCatalog.csproj",
+      "projectPath": "C:\\Users\\bruger\\Desktop\\School\\DotNet\\002_MVC\\studentsCatalog\\studentsCatalog.csproj",
       "packagesPath": "C:\\Users\\bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruger\\Desktop\\School\\DotNet\\002_MVC\\studentsCatalog\\studentsCatalog\\obj\\",
+      "outputPath": "C:\\Users\\bruger\\Desktop\\School\\DotNet\\002_MVC\\studentsCatalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,10 @@
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\bin\Debug\netcoreapp2.0\studentsCatalog.deps.json
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\bin\Debug\netcoreapp2.0\studentsCatalog.runtimeconfig.json
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\bin\Debug\netcoreapp2.0\studentsCatalog.runtimeconfig.dev.json
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\bin\Debug\netcoreapp2.0\studentsCatalog.dll
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\bin\Debug\netcoreapp2.0\studentsCatalog.pdb
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\obj\Debug\netcoreapp2.0\studentsCatalog.csproj.CoreCompileInputs.cache
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\obj\Debug\netcoreapp2.0\studentsCatalog.AssemblyInfoInputs.cache
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\obj\Debug\netcoreapp2.0\studentsCatalog.AssemblyInfo.cs
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\obj\Debug\netcoreapp2.0\studentsCatalog.dll
+C:\Users\bruger\Desktop\School\DotNet\002_MVC\studentsCatalog\obj\Debug\netcoreapp2.0\studentsCatalog.pdb
